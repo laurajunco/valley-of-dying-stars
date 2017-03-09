@@ -1,4 +1,4 @@
-/*import processing.video.*;
+import processing.video.*;
 
 class DetectorMovimiento{
 
@@ -47,10 +47,4 @@ void captureEvent(Capture video)
     video.read();
     }
 }
-
-
-
-
-
-
-}*/
+}

@@ -5,6 +5,7 @@ float y;
 float my, mx; //mov suavizado
 int tam;
 int col;
+
 //DetectorMovimiento dec; //falta crearlo
 
 int num = 12;
@@ -48,6 +49,7 @@ Cuadro(){
 
   void mover(int pix)
   {
+  
     float dify = y - my;
     float difx = x - mx;
     float pixMap = map(pix, 200, 2000, height + tam/2 + 40, 0);
@@ -60,9 +62,7 @@ Cuadro(){
       mx = -tam*2;
       x = -tam*2;
     }
-    //println(x);
-
-    //y
+  
       if(pixMap < my + 40)
       {
         y = pixMap;

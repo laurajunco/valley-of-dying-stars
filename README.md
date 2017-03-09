@@ -1,10 +1,10 @@
-## Valley of Dying stars
+# Valley of Dying stars
 
 Valley of dying stars es un juego que surge del deseo de poder volar y tocar las estrellas. Por esta razón los movimientos que se realizan en el juego evocan a una posición de volar o alzar los brazos hacia el cielo.
 
 El mecanismo del juego consiste en atrapar la mayor cantidad de estrellas en el límite de tiempo existente. En este juego el movimiento de los brazos es el que controla al cuadro jugador en la pantalla, el cual salta para atrapar las estrellas.
 
-# Funcionalidad
+## Funcionalidad
 
 Este juego fue desarrollado en Processing 3.3
 

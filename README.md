@@ -16,4 +16,4 @@ A medida que pasa el tiempo y los niveles, van apareciendo más estrellas para a
 
 
 
-La música tomada para el juego asi como todos lso derechos de autor pertenecen a lso desarrolladores y compositores del juego Two Dots. No copyright infrigement intended
+La música tomada para el juego asi como todos los derechos de autor pertenecen a los desarrolladores y compositores del juego Two Dots. No copyright infrigement intended
